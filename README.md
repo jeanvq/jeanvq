@@ -31,16 +31,12 @@
 
 ---### 💼 Tech Stack
 
-```bash
+
 Languages:   JavaScript · HTML · CSS · Python
 Frameworks:  React · Node.js · Express
 Tools:       Git · GitHub · VSCode · Figma · Adobe XD
 Other:       Firebase · MongoDB · Netlify · Vercel
-```bash
-Languages:   JavaScript · HTML · CSS · Python
-Frameworks:  React · Node.js · Express
-Tools:       Git · GitHub · VSCode · Figma · Adobe XD
-Other:       Firebase · MongoDB · Netlify · Vercel
+
 
 ### 📈 GitHub Stats
 
