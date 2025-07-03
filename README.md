@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/logo-jeancarlo.png" width="200" alt="Logo Jeancarlo" />
-</p>
 
 <h1 align="center">Hi there! 👋 I'm Jeancarlo Velasquez</h1>
 <h3 align="center">Designer & Developer | Passionate about code, creativity & coffee ☕</h3>
