@@ -9,11 +9,11 @@
 
 ### 💡 About Me
 
-- 👨‍💻 Self-taught developer & student of Web Development in 🇨🇦  
-- 💻 Currently working on: **React projects**, **TailwindCSS designs**, and a **mind-powered gaming concept** 🎮🧠  
-- 📚 Expanding into **Cybersecurity** & **Cloud Computing**  
-- ✈️ Passionate about tech, freedom, family, and coffee ☕  
-- 🛠 Always looking to collaborate and grow together!
+-- 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
+- 🌱 Currently learning: React, Tailwind CSS
+- 🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
+- 🎯 Goal: Land a remote developer job and contribute to impactful, global projects
+- 🧠 Always curious, always learning
 
 ---
 
