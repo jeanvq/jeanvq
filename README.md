@@ -1,4 +1,6 @@
-</p>!(https://github.com/user-attachments/assets/9d30ecf8-f72f-4692-a531-5d4112b9b944)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/logo-jeancarlo.png" width="300" alt="Logo Jeancarlo" />
+</p>
 <h1 align="center">Hi there! 👋 I'm Jeancarlo 😎 </h1>
 <h3 align="center">Web Developer | Tech Explorer | Future Remote Pro</h3>
 
