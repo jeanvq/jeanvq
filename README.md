@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/9d30ecf8-f72f-4692-a531-5d4112b9b944)
+</p>!(https://github.com/user-attachments/assets/9d30ecf8-f72f-4692-a531-5d4112b9b944)
 <h1 align="center">Hi there! 👋 I'm Jeancarlo 😎 </h1>
 <h3 align="center">Web Developer | Tech Explorer | Future Remote Pro</h3>
 
