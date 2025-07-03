@@ -29,13 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
 
----### 💼 Tech Stack
 
-
-Languages:   JavaScript · HTML · CSS · Python
-Frameworks:  React · Node.js · Express
-Tools:       Git · GitHub · VSCode · Figma · Adobe XD
-Other:       Firebase · MongoDB · Netlify · Vercel
 
 
 ### 📈 GitHub Stats
