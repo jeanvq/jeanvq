@@ -10,11 +10,11 @@
 
 ### 💡 About Me
 
-🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
-🌱 Currently learning: JavaScript • Swift • HTML/CSS • Markdown 👨‍💻
-🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
-🎯 Goal: Land a remote developer job and contribute to impactful, global projects
-🧠 Always curious, always learning
+- 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
+- 🌱 Currently learning: JavaScript • Swift • HTML/CSS • Markdown 👨‍💻
+- 🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
+- 🎯 Goal: Land a remote developer job and contribute to impactful, global projects
+- 🧠 Always curious, always learning
 
 
 ### 🧰 Tech Stack
