@@ -1,9 +1,11 @@
+</p>![ChatGPT Image Jun 10, 2025 at 08_42_04 PM](https://github.com/user-attachments/assets/9d30ecf8-f72f-4692-a531-5d4112b9b944)
 <h1 align="center">Hi there! 👋 I'm Jeancarlo 😎 </h1>
 <h3 align="center">Web Developer | Tech Explorer | Future Remote Pro</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
-</p>
+
+
 
 ---
 
