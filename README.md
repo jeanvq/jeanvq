@@ -29,17 +29,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
 
----
+---### 💼 Tech Stack
 
-### 🧠 Projects That Make Me Proud
-
-| 💡 Project | 🔎 Description | 🔧 Tech Used |
-|-----------|----------------|--------------|
-| **🧠 Quantum Game Console** | Futuristic game console powered by the mind—just imagine and play. | React, JS, AI, Figma |
-| **🌎 Made in Colombia** | A site showcasing Colombia's beauty—culture, food & places. | HTML, CSS, JS, XD |
-| **📱 Dev Portfolio** | A mobile-first portfolio site for my dev journey. | React, Tailwind, Netlify |
-
----
+```bash
+Languages:   JavaScript · HTML · CSS · Python
+Frameworks:  React · Node.js · Express
+Tools:       Git · GitHub · VSCode · Figma · Adobe XD
+Other:       Firebase · MongoDB · Netlify · Vercel
+```bash
+Languages:   JavaScript · HTML · CSS · Python
+Frameworks:  React · Node.js · Express
+Tools:       Git · GitHub · VSCode · Figma · Adobe XD
+Other:       Firebase · MongoDB · Netlify · Vercel
 
 ### 📈 GitHub Stats
 
