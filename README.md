@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/logo-jeancarlo.png" width="300" alt="Logo Jeancarlo" />
+  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/logo-jeancarlo.png" width="200" alt="Logo Jeancarlo" />
 </p>
-<h1 align="center">Hi there! 👋 I'm Jeancarlo 😎 </h1>
-<h3 align="center">Web Developer | Tech Explorer | Future Remote Pro</h3>
+
+<h1 align="center">Hi there! 👋 I'm Jeancarlo Velasquez</h1>
+<h3 align="center">Designer & Developer | Passionate about code, creativity & coffee ☕</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 💡 About Me
 
-- 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
-- 🌱 Currently learning: JavaScript • Swift • HTML/CSS • Markdown 👨‍💻
-- 🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
-- 🎯 Goal: Land a remote developer job and contribute to impactful, global projects
-- 🧠 Always curious, always learning
+🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
+🌱 Currently learning: JavaScript • Swift • HTML/CSS • Markdown 👨‍💻
+🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
+🎯 Goal: Land a remote developer job and contribute to impactful, global projects
+🧠 Always curious, always learning
 
----
 
 ### 🧰 Tech Stack
 
@@ -34,7 +33,7 @@
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
 
 
-
+---
 
 ### 📈 GitHub Stats
 
@@ -48,23 +47,20 @@
 
 ---
 
-### 📫 Let’s Connect!
+### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: jeancarlo.vq@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/)
+- 🌐 [Portfolio](https://tu-portfolio.com)
+- 📬 Email: jeanca979@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeanvq&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jeanvq&label=Profile+Views&color=orange&style=flat" alt="Profile views" />
   <br />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-> “Success is the sum of small efforts, repeated day in and day out.” – R. Collier
-
----
-
+> _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
