@@ -7,12 +7,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
-</p>
-
-
-
 ### 💡 About Me
 
 - 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
@@ -54,6 +48,10 @@
 - 🌐 [Portfolio](https://tu-portfolio.com)
 - 📬 Email: jeanca979@gmail.com
 
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
+</p>
+
 ---
 
 <p align="center">
@@ -66,9 +64,4 @@
 
 > _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
 
-
-
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="animated logo strong glow" />
-</p>
 
