@@ -32,7 +32,7 @@
 ---![Monogram Logo for Web Designer](https://github.com/user-attachments/assets/5669a0ae-71b4-41d1-aa98-c27fae660a15)
 
 
-<img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/logo.svg" width="200" style="animation: pulse 2s infinite;">
+<img src="https://raw.githubusercontent.com/jeanvq/Readme.md/main/logo.svg" width="200" style="animation: pulse 2s infinite;">
 
 <style>
 @keyframes pulse {
