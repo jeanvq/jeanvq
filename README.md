@@ -11,6 +11,9 @@
   <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="Logo animado con brillo fuerte" />
+</p>
 
 
 ### 💡 About Me
