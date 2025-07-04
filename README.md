@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="Logo animado con brillo fuerte" />
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="animated logo strong glow" />
 </p>
 
 
