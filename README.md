@@ -7,6 +7,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_tech_shine.gif" width="200" alt="Logo con efecto tecnológico" />
+</p>
+
+
 ### 💡 About Me
 
 - 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
@@ -47,10 +52,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/)
 - 🌐 [Portfolio](https://tu-portfolio.com)
 - 📬 Email: jeanca979@gmail.com
-
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_tech_shine.gif" width="200" alt="Logo con efecto tecnológico" />
-</p>
 
 
 ---
