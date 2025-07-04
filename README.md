@@ -65,3 +65,8 @@
 ---
 
 > _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
+
+
+![ChatGPT Image Jul 3, 2025 at 09_47_24 PM](https://github.com/user-attachments/assets/642b1ebe-b492-4088-beff-143653ac9292)
+
+
