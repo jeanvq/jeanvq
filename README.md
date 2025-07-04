@@ -11,9 +11,6 @@
   <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="animated logo strong glow" />
-</p>
 
 
 ### 💡 About Me
@@ -68,3 +65,10 @@
 ---
 
 > _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
+
+
+
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_glow_strong.gif" width="200" alt="animated logo strong glow" />
+</p>
+
