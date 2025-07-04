@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
----
+
+
 
 ### 💡 About Me
 
@@ -28,6 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
 
+---![Monogram Logo for Web Designer](https://github.com/user-attachments/assets/5669a0ae-71b4-41d1-aa98-c27fae660a15)
 
 ---
 
