@@ -31,6 +31,17 @@
 
 ---![Monogram Logo for Web Designer](https://github.com/user-attachments/assets/5669a0ae-71b4-41d1-aa98-c27fae660a15)
 
+
+<img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/logo.svg" width="200" style="animation: pulse 2s infinite;">
+
+<style>
+@keyframes pulse {
+  0%   { transform: scale(1); opacity: 0.8; }
+  50%  { transform: scale(1.05); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+</style>
+
 ---
 
 ### 📈 GitHub Stats
