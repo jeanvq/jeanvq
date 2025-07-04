@@ -1,5 +1,5 @@
 
-![ChatGPT Image Jul 3, 2025 at 09_47_24 PM](https://github.com/user-attachments/assets/642b1ebe-b492-4088-beff-143653ac9292)<h3 align="center">Designer & Developer | Passionate about code, creativity & coffee ☕</h3>
+![ChatGPT Image Jul 3, 2025 at 09_53_21 PM](https://github.com/user-attachments/assets/bbc5f314-cf78-42f9-8856-324d4fe4147e)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
@@ -64,5 +64,8 @@
 ---
 
 > _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
+
+
+
 
 
