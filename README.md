@@ -7,6 +7,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
+</p>
 
 
 ### 💡 About Me
@@ -28,12 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
-
----![Monogram Logo for Web Designer](https://github.com/user-attachments/assets/5669a0ae-71b4-41d1-aa98-c27fae660a15)
-
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
-</p>
 
 
 ---
