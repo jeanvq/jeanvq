@@ -65,3 +65,6 @@
 > _"Great design is invisible, great code is intuitive, and great developers build both."_ 🔥
 
 
+<p align="center">
+  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_tech_shine.gif" width="200" alt="Logo con efecto tecnológico" />
+</p>
