@@ -32,9 +32,6 @@
 ---![Monogram Logo for Web Designer](https://github.com/user-attachments/assets/5669a0ae-71b4-41d1-aa98-c27fae660a15)
 
 
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_pulse.gif" width="200" alt="Animated Logo" />
-</p>
 ---
 
 ### 📈 GitHub Stats
