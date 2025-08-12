@@ -1,5 +1,5 @@
 
-![ChatGPT Image Jul 3, 2025 at 09_53_21 PM](https://github.com/user-attachments/assets/bbc5f314-cf78-42f9-8856-324d4fe4147e)
+![ChatGPT Image Jul 3, 2025 at 09_53_21 PM](https://github.com/jeanvq/jeanvq/blob/main/ChatGPT%20Image%20Jul%2010,%202025%20at%2007_06_30%20PM.png?raw=true)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
