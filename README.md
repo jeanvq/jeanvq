@@ -27,6 +27,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
+
 
 
 ---
