@@ -51,8 +51,6 @@
 ### 🚀 Featured Projects
 
 - 🧾 [InOut App](https://github.com/jeanvq/InOut_App) — CLI Java app for managing income & expenses with emojis, categories, and HTML reports
-- 🌐 [Hecho en Colombia](https://github.com/jeanvq/hechoencolombia) — A cultural showcase website built with HTML/CSS/JS
-- 📱 [SwiftAssignment4](https://github.com/jeanvq/SwiftAssignment4) — Swift Playground for protocol-based content download simulation
 
 
 ### 🤝 Let's Connect
