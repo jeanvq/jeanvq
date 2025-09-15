@@ -1,4 +1,6 @@
 
+<h3 align="center">Hey there 👋, I'm Jeancarlo — aspiring full-stack developer & designer</h3>
+
 ![ChatGPT Image Jul 3, 2025 at 09_53_21 PM](https://github.com/jeanvq/jeanvq/blob/main/ChatGPT%20Image%20Jul%2010,%202025%20at%2007_06_30%20PM.png?raw=true)
 
 <p align="center">
@@ -10,11 +12,11 @@
 
 ### 💡 About Me
 
-- 🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
-- 🌱 Currently learning: JavaScript • Swift • HTML/CSS • Markdown 👨‍💻
-- 🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
-- 🎯 Goal: Land a remote developer job and contribute to impactful, global projects
-- 🧠 Always curious, always learning
+🌍 Based in 🇨🇦 Canada (but dreaming code in every timezone)
+🌱 Always learning something new — right now deep into JavaScript, Swift, and frontend magic ✨
+🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 🤯
+🎯 Goal: Land a remote developer job and contribute to impactful, global projects
+🧠 Always curious, always learning
 
 
 ### 🧰 Tech Stack
@@ -45,6 +47,13 @@
 </p>
 
 ---
+
+### 🚀 Featured Projects
+
+- 🧾 [InOut App](https://github.com/jeanvq/InOut_App) — CLI Java app for managing income & expenses with emojis, categories, and HTML reports
+- 🌐 [Hecho en Colombia](https://github.com/jeanvq/hechoencolombia) — A cultural showcase website built with HTML/CSS/JS
+- 📱 [SwiftAssignment4](https://github.com/jeanvq/SwiftAssignment4) — Swift Playground for protocol-based content download simulation
+
 
 ### 🤝 Let's Connect
 
