@@ -18,7 +18,7 @@
 
 🌍 Colombian based in Canada<br>
 🌱 Always learning something new<br>
-🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces<br>
+🔭 Building: Personal projects, currently building FutHub and AutoPulse<br>
 🎯 Goal: Land a remote developer job and contribute to impactful, global projects<br>
 🧠 Always curious, always learning
 
@@ -56,13 +56,13 @@
 
 ### 🚀 Featured Projects
 
-- 🧾 [InOut App](https://github.com/jeanvq/InOut_App) — application for tracking vehicle maintenance schedules and wear indicators.
+- 🧾 AutoPulse https://autopulse-production-09cc.up.railway.app/— application for tracking vehicle maintenance schedules and wear indicators.
 
 
 ### 🤝 Let's Connect
 
 - 💼 LinkedIn https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/
-- 🌐 Portfolio https://tu-portfolio.com
+- 🌐 Portfolio https://jeancarlodev.com/
 - 📬 Email: jeanca979@gmail.com
 
 
