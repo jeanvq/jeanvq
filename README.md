@@ -50,13 +50,13 @@
 
 ### 🚀 Featured Projects
 
-- 🧾 [InOut App](https://github.com/jeanvq/InOut_App) — CLI Java app for managing income & expenses with emojis, categories, and HTML reports
+- 🧾 [InOut App](https://github.com/jeanvq/InOut_App) — application for tracking vehicle maintenance schedules and wear indicators.
 
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/)
-- 🌐 [Portfolio](https://tu-portfolio.com)
+- 💼 LinkedIn https://www.linkedin.com/in/jeancarlo-ricardo-392b4a365/
+- 🌐 Portfolio https://tu-portfolio.com
 - 📬 Email: jeanca979@gmail.com
 
 
