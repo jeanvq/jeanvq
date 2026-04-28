@@ -1,5 +1,10 @@
 
 <h1 align="center"> Hey there  I'm Jeancarlo, full stack developer & designer</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/9DC65347-5564-4124-BA12-4C91F0605359_1_105_c.jpeg"
+       width="260"
+       alt="Jeancarlo logo" />
+</p>
 
 
 <p align="center">
@@ -60,10 +65,6 @@
 - 🌐 Portfolio https://tu-portfolio.com
 - 📬 Email: jeanca979@gmail.com
 
-
-<p align="center">
-  <img src="https://github.com/jeanvq/jeanvq/raw/main/jeancarlo_logo_tech_shine.gif" width="200" alt="Logo con efecto tecnológico" />
-</p>
 
 
 ---
