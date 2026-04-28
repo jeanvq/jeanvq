@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeanvq&label=Profile+Views&color=orange&style=flat" alt="Profile views" />
   <br />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<img src="https://media4.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400" />
 </p>
 
 ---
