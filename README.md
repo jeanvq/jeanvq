@@ -1,5 +1,5 @@
 
-<h1 align="center" Hey there  I'm Jeancarlo, full stack developer & designer</h1>
+<h1 align="center"> Hey there  I'm Jeancarlo, full stack developer & designer</h1>
 
 
 <p align="center">
@@ -11,12 +11,11 @@
 
 ### 💡 About Me
 
-🌍 Based in Canada (but dreaming code in every timezone)
-🌱 Always learning something new — right now deep into JavaScript, Swift, and frontend magic 
-🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces 
-🎯 Goal: Land a remote developer job and contribute to impactful, global projects
+🌍 Colombian based in Canada<br>
+🌱 Always learning something new<br>
+🔭 Building: Personal projects, portfolio websites, and exploring mind-powered interfaces<br>
+🎯 Goal: Land a remote developer job and contribute to impactful, global projects<br>
 🧠 Always curious, always learning
-
 
 ### 🧰 Tech Stack
 
@@ -29,6 +28,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat&logo=adobe-xd)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 
 
