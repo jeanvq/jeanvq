@@ -14,11 +14,11 @@
 
 ### 💡 About Me
 
-🌍 Colombian based in 🇨🇦 Canada  
-🌱 Always learning something new  
-🔭 Currently building **FutHub** and **AutoPulse**  
+🌍 Colombian based in  Canada  
+💡 Always learning something new  
+👨‍💻 Currently building **FutHub** and **AutoPulse**  
 🎯 Goal: Land a remote developer job and contribute to impactful, global projects  
-🧠 Always curious, always building
+
 
 ---
 
