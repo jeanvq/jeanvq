@@ -55,7 +55,7 @@
 
 - 🚗 **[AutoPulse](https://autopulse-production-09cc.up.railway.app/)** — Vehicle management PWA. Track maintenance schedules, fuel records, and wear indicators. `HTML/CSS/JS · PHP · MySQL`
 
-- ⚽ **FutHub** *(in development)* — Soccer results app for the Latin American market. Live standings, match probabilities, and an AI assistant. `JavaScript · REST APIs`
+- ⚽ **[FutHub](https://github.com/jeanvq/FutHub)** — Soccer results app for the Latin American market. Live standings, match probabilities, and an AI assistant. `JavaScript · REST APIs`
 
 - 📖 **[HolyVerse](https://holyverse.ca)** *(in development)* — Web-based biblical study platform with AI Bible Bot, Strong's lexicon, commentaries and cross-references.
 
