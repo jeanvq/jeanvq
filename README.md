@@ -1,9 +1,6 @@
 <h1 align="center">Hey there!! I'm Jeancarlo an Emerging Full Stack Developer & Designer</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeanvq/jeanvq/main/9DC65347-5564-4124-BA12-4C91F0605359_1_105_c.jpeg"
-       width="260"
-       alt="Jeancarlo" />
+
 </p>
 
 <p align="center">
