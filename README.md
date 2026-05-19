@@ -9,7 +9,7 @@
 
 ---
 
-### 💡 About Me
+### • About Me
 
 🌍 Colombian based in  Canada  
 💡 Always learning something new  
