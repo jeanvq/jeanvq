@@ -1,21 +1,17 @@
 <h1 align="center">Hey there!! I'm Jeancarlo an Emerging Full Stack Developer & Designer</h1>
 
-
-</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let%E2%80%99s+connect+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C4E&center=true&vCenter=true&width=440&lines=Building+cool+web+projects...;Learning+every+day!;Let's+build+something+awesome!" alt="Typing animation" />
 </p>
 
 ---
 
 ### • About Me
 
-🌍 Colombian based in  Canada  
+🌍 Colombian based in Canada  
 💡 Always learning something new  
 👨‍💻 Currently building **FutHub** and **AutoPulse**  
 🎯 Goal: Land a remote developer job and contribute to impactful, global projects  
-
 
 ---
 
@@ -56,7 +52,7 @@
 
 - 📖 **[HolyVerse](https://holyverse.ca)** *(in development)* — Web-based biblical study platform with AI Bible Bot, Strong's lexicon, commentaries and cross-references.
 
-- 🌍 **[Country Explorer App](https://573174f5.global-explorer.pages.dev/)** — Angular web app using the REST Countries API. Built as a team project, deployed on Cloudflare Pages. `Angular · REST Countries API`
+- 🌍 **[Country Explorer App](https://573174f5.global-explorer.pages.dev/)** — Angular web app using the REST Countries API. Built as a team project, deployed on Cloudflare Pages.
 
 ---
 
@@ -77,5 +73,3 @@
 ---
 
 > *"Great design is invisible, great code is intuitive, and great developers build both."* 🔥
-
-
