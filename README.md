@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & Designer ·</h3>
 
 <p align="center">
-  <em>Building for the web, mobile, and the Latin American market — one commit at a time.</em>
+  <em>Building for the web, mobile one commit at a time.</em>
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ### 🧠 About Me
 
 - 🎓 Web Development student @ **triOS College** (Waterloo, ON) — graduating 2027
-- ⚽ Soccer fan, faith-driven, and obsessed with clean UI
-- 🌎 Passionate about creating apps for the **Spanish-speaking market**
+- 🌎 Passionate about creating apps and websites 
 - 💼 Actively looking for a **co-op position** in web/mobile development
 - 🌐 Portfolio: **[jeancarlodev.com](https://jeancarlodev.com)**
 
