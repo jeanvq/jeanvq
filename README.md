@@ -1,11 +1,11 @@
-<h1 align="center">Jeancarlo</h1>
+<h1 align="center">Hey, I'm Jeancarlo 👋</h1>
 
 <p align="center">
-  Full Stack Developer · Designer · Based in Canada
+  <b>Full Stack Developer</b> · <b>Designer</b> · Based in Canada
 </p>
 
 <p align="center">
-  Building thoughtful web experiences and learning every day.
+  I build modern web experiences focused on usability, performance, and clean design.
 </p>
 
 <p align="center">
@@ -16,53 +16,65 @@
 
 ---
 
-## About
+## About Me
 
-Colombian developer based in Canada, focused on building clean, useful, and user-friendly products.
+I'm a Colombian developer based in Canada, passionate about creating products that feel intuitive, useful, and well-crafted.
 
-Currently working on **FutHub** and **AutoPulse**, with the goal of contributing to meaningful global projects as a remote developer.
-
----
-
-## Stack
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Angular` `React` `Node.js` `Swift` `Git` `GitHub`
+Right now I'm building projects that combine design, development, and real-world problem solving — always with the goal of growing as a remote developer and contributing to meaningful global teams.
 
 ---
 
-## Projects
+## Tech Stack
 
-### AutoPulse
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+### 🚗 AutoPulse
 Vehicle management PWA for tracking maintenance schedules, fuel records, and wear indicators.  
 **Stack:** PHP, MySQL, JavaScript  
-[Live Demo](https://autopulse-production-09cc.up.railway.app/)
+🔗 [Live Demo](https://autopulse-production-09cc.up.railway.app/)
 
-### FutHub
+### ⚽ FutHub
 Soccer results app for the Latin American market with live standings, match probabilities, and an AI assistant.  
 **Stack:** JavaScript, REST APIs  
-[Repository](https://github.com/jeanvq/FutHub)
+🔗 [Repository](https://github.com/jeanvq/FutHub)
 
-### HolyVerse
+### 📖 HolyVerse
 Web-based biblical study platform with AI features, lexicon tools, commentaries, and cross-references.  
 **Status:** In development  
-[Website](https://holyverse.ca)
+🔗 [Website](https://holyverse.ca)
 
-### Country Explorer App
+### 🌍 Country Explorer App
 Angular app built with the REST Countries API and deployed on Cloudflare Pages.  
 **Stack:** Angular, REST API  
-[Live Demo](https://573174f5.global-explorer.pages.dev/)
+🔗 [Live Demo](https://573174f5.global-explorer.pages.dev/)
 
 ---
 
-## GitHub
+## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeanvq&show_icons=true&theme=default&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvq&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeanvq&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvq&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Great design is invisible. Great code is intuitive.</sub>
+  <sub>Design with intention. Build with clarity.</sub>
 </p>
