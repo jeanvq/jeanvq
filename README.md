@@ -10,7 +10,6 @@
 ### 🧠 About Me
 
 - 🎓 Web Development student @ **triOS College** (Waterloo, ON) — graduating 2027
-- 🔭 Currently building **[HolyVerse](https://holyverse.ca)** — a biblical study PWA
 - ⚽ Soccer fan, faith-driven, and obsessed with clean UI
 - 🌎 Passionate about creating apps for the **Spanish-speaking market**
 - 💼 Actively looking for a **co-op position** in web/mobile development
@@ -52,12 +51,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanvq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvq&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanvq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanvq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanvq&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=jeanvq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
