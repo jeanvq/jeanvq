@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Jeancarlo 👋🏽</h1>
-<h3 align="center">Full-Stack Developer & Designer · Colombian in Canada 🇨🇴🍁</h3>
+<h3 align="center">Full-Stack Developer & Designer ·</h3>
 
 <p align="center">
   <em>Building for the web, mobile, and the Latin American market — one commit at a time.</em>
