@@ -17,10 +17,9 @@
 ## 🧭 About Me
 
 - 🎓 **Mobile Web Development + Integration** student at **triOS College** (Waterloo, ON) — two diplomas, graduating 2027
-- 🔧 Before code: welder and renovation contractor (2020–2023) — I bring that same "finish it and make it work" mindset to software
 - 🌎 Bilingual (ES/EN), originally from Colombia, based in Waterloo, Ontario
-- 🚀 Shipped two full apps to the **App Store** solo — backend, frontend, native iOS, and the entire Apple review process
-- 💼 Looking for a **co-op position** in web/mobile development
+- 🚀 Shipped two full apps to the **App Store** solo — backend, frontend, native iOS
+
 
 ---
 
